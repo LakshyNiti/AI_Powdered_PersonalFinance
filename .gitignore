@@ -1,0 +1,15 @@
+# Compiled binary
+finance
+
+# Data files
+*.dat
+transactions.dat
+categories.dat
+budgets.dat
+
+# CSV exports
+*.csv
+export.csv
+
+# Temporary files
+tmp_import.csv
